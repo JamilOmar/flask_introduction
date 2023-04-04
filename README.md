@@ -1,6 +1,10 @@
 
-## Add virtual env
-- `pip3 install virtualenv`
+# Flask Initial Project
+
+This is an initial project with Flask and Python. 
+
+## Requirements
+- Add virtual env in `pip3 install virtualenv`
 - to run it: `python3 -m virtualenv env`
 - to activate it: `source env/bin/activate`  / for deactivate and env `deactivate`
 - install production gunicorn server: `pip3 install gunicorn`
